@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/12/04 08:25:21.000.583,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/19 11:04:15.000.867,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/01/20 13:58:55.000.237,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/03/02 15:28:16.000.136,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/05/30 14:37:22.000.185,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>2016/05/30 14:37:42.000.427,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>2016/08/24 11:36:54.000.539,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/24 15:47:45.000.882,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 07:44:00.944,=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 07:45:52.287,D:\git\Delphi\SegWIN\uMain.dfm=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2016/08/26 07:45:52.287,D:\git\Delphi\SegWIN\uMain.pas=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 07:46:07.488,D:\git\Delphi\SegWIN\SegWIN.dproj=C:\Users\tecnico6.NKL\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2016/08/26 08:28:43.714,=D:\git\Delphi\SegWIN\Unit2.pas</Transaction>
+    <Transaction>2016/08/26 08:33:31.201,D:\git\Delphi\SegWIN\Views\uLogin.pas=D:\git\Delphi\SegWIN\Unit2.pas</Transaction>
+    <Transaction>2016/08/26 08:33:31.201,D:\git\Delphi\SegWIN\Views\uLogin.dfm=D:\git\Delphi\SegWIN\Unit2.dfm</Transaction>
+    <Transaction>2016/08/26 08:54:26.733,=D:\git\Delphi\SegWIN\PassWord.pas</Transaction>
+    <Transaction>2016/08/26 10:40:44.422,=D:\git\Delphi\SegWIN\Unit1.pas</Transaction>
+    <Transaction>2016/08/26 10:40:58.446,D:\git\Delphi\SegWIN\Model\util.pas=D:\git\Delphi\SegWIN\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
